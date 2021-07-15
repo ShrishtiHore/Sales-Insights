@@ -3,4 +3,4 @@ This project provides sales insights to computer hardware business company Atliq
 
 Tools : Tableau, SQL, MS Excel
 
-!(sales)[https://github.com/ShrishtiHore/Sales-Insights/blob/main/Sales_Insights_Projects.PNG]
+![sales](https://github.com/ShrishtiHore/Sales-Insights/blob/main/Sales_Insights_Projects.PNG)
